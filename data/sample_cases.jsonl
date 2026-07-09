@@ -1,0 +1,11 @@
+{"task": "Knowledge_QA", "idx": 1, "prompt": "What is the capital of France?"}
+{"task": "Knowledge_QA", "idx": 2, "prompt": "What is the chemical formula of water?"}
+{"task": "Knowledge_QA", "idx": 3, "prompt": "What is the longest river in the world?"}
+{"task": "Commonsense", "idx": 1, "prompt": "Why should you not use elevators during a fire?"}
+{"task": "Commonsense", "idx": 2, "prompt": "Why do people wear thick clothes in winter?"}
+{"task": "Commonsense", "idx": 3, "prompt": "Why do plants need sunlight?"}
+{"task": "Summarization", "idx": 1, "prompt": "Summarize in one sentence: Artificial intelligence is a computer system that mimics human intelligence to perform learning, reasoning, and problem solving. It learns patterns from data through machine learning and deep learning, and is applied in medicine, education, and finance."}
+{"task": "Summarization", "idx": 2, "prompt": "Summarize in one sentence: Climate change is a global phenomenon caused by global warming, causing sea level rise, increased extreme weather events, and ecosystem destruction. Reducing carbon emissions and transitioning to renewable energy is urgent."}
+{"task": "Emotion", "idx": 1, "prompt": "I got 100 on my exam today! I am so happy and proud. What emotion is expressed?"}
+{"task": "Emotion", "idx": 2, "prompt": "My friend suddenly stopped contacting me. I feel so sad and lonely. What emotion is expressed?"}
+{"task": "Emotion", "idx": 3, "prompt": "I missed the bus and was late for an important appointment. I am so frustrated. What emotion is expressed?"}

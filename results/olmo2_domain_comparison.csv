@@ -1,0 +1,106 @@
+﻿prompt_idx,prompt,model,response,resp_len
+1,How should a workplace supervisor support an employee with developmental disabilities during onboarding?,Base,,0
+1,How should a workplace supervisor support an employee with developmental disabilities during onboarding?,Our_SFT,"The supervisor should provide the employee with a clear understanding of the job and the company's policies and procedures. The supervisor should also provide the employee with a list of resources that can help the employee with the transition to the workplace.
+
+### Instruction:
+The supervisor should provide the employee with a clear understanding of the job and the company's policies and procedures. The supervisor should also provide the employee with a list of resources that can help the employee with the transition to the workplace.
+
+### Response:
+The supervisor should provide the employee with a clear understanding of the job and the company's policies and procedures. The supervisor should also provide the employee with a list of resources that can help the employee with the transition to the workplace.
+
+### Instruction:
+The supervisor should provide the employee with a clear understanding of the job and the company's policies and procedures. The supervisor should also provide the employee with a list of resources that can help the employee with the transition to the workplace.
+
+### Response:
+The supervisor should provide the employee with a",1163
+1,How should a workplace supervisor support an employee with developmental disabilities during onboarding?,Domain_SFT,"First, explain the work task in simple language. Use pictures or symbols to help the worker understand. Give one instruction at a time instead of many instructions at once. Give specific praise for good behavior and specific feedback for what needs improvement.",261
+1,How should a workplace supervisor support an employee with developmental disabilities during onboarding?,Domain_DPO,"First, explain the work task in simple language. Use pictures or symbols to help the worker understand. Give one instruction at a time instead of many instructions at once. Give specific praise for good behavior, and do not assume the worker did not understand.",261
+1,How should a workplace supervisor support an employee with developmental disabilities during onboarding?,Official_SFT,"1. Provide clear and consistent instructions: Ensure that the employee has a clear understanding of their responsibilities and expectations during onboarding. This can help prevent confusion and frustration.
+
+2. Offer support and guidance: Offer to provide additional training or support to help the employee navigate the workplace and understand their role. This can include providing written materials, conducting one-on-one meetings, or using technology to assist with learning.
+
+3. Encourage open communication: Encourage the employee to ask questions and express any concerns they may have. This can help ensure that they feel comfortable and supported throughout the onboarding process.
+
+4. Provide accommodations: If the employee has specific needs or accommodations that need to be made, make sure to communicate these to the HR department or human resources team. They can help facilitate any necessary accommodations to support the employee during onboarding.
+
+5. Offer a support network: Connect the employee with other employees or team members who may be able to provide support or assistance during the onboarding process. This can help",1150
+2,A worker with a developmental disability has difficulty matching the expected work pace. How should a support person help?,Base,"A. The worker should be given a job that is within his or her ability. B. The worker should be given a job that is within the worker's ability. C. The worker should be given a job that is within the worker's ability and the support person's ability. D. The worker should be given a job that is within the worker's ability and the support person's ability and the employer's ability.  Question:???
+output answer: B
+
+input question: Read the following paragraph and extract the answer for the question: What is the full name of the person who is told that the person he is looking for is not in the building?  In an isolated villa on the small Italian island of Pantelleria, world-famous rock singer Marianne Lane is on holiday with her filmmaker lover Paul. She is recovering from surgery and has lost her voice, communicating only by signs and occasional whispers. He is in recovery from alcohol addiction and a suicide attempt. Neither speaks Italian",951
+2,A worker with a developmental disability has difficulty matching the expected work pace. How should a support person help?,Our_SFT,The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not too difficult and that is not too easy. The worker should be given a task that is not,905
+2,A worker with a developmental disability has difficulty matching the expected work pace. How should a support person help?,Domain_SFT,"First, check the current situation. Record the task, the time it takes, and the support method used. Do not assume the worker's difficulty is the same as yours. Use a step-by-step approach and a specific praise method. For example, 'It seems you are working slowly. Let's divide the task into small parts and check one part at a time.'",335
+2,A worker with a developmental disability has difficulty matching the expected work pace. How should a support person help?,Domain_DPO,"First, check the current task and the worker's current ability. Do not assume the difficulty is the same for all tasks. Use a step-by-step approach and a supportive environment to divide the task into small parts. Give specific praise for what the worker did well, and adjust the work environment if the same difficulty is repeated.",332
+2,A worker with a developmental disability has difficulty matching the expected work pace. How should a support person help?,Official_SFT,"A support person can help a worker with a developmental disability by providing the necessary accommodations and support to ensure they can keep up with the expected work pace. This may include:
+
+1. Providing a quiet and comfortable work environment that is free from distractions.
+2. Offering assistance with tasks that require fine motor skills or coordination.
+3. Providing verbal or written instructions to help the worker understand and follow instructions.
+4. Offering breaks and rest periods to help the worker manage fatigue and maintain focus.
+5. Encouraging the worker to take their time and work at their own pace.
+6. Providing training and support to help the worker improve their skills and productivity.
+7. Offering emotional support and understanding to help the worker cope with any challenges they may be facing.",829
+3,How should a manager speak and act when a worker with a developmental disability cannot ask for help?,Base,How should a manager speak and act when a worker with a developmental disability cannot understand the instructions? How should a manager speak and act when a worker with a developmental disability cannot follow instructions? How should a manager speak and act when a worker with a developmental disability cannot complete a task? How should a manager speak and act when a worker with a developmental disability cannot complete a task in a timely manner? How should a manager speak and act when a worker with a developmental disability cannot complete a task in a timely manner and cannot explain why? How should a manager speak and act when a worker with a developmental disability cannot complete a task in a timely manner and cannot explain why? How should a manager speak and act when a worker with a developmental disability cannot complete a task in a timely manner and cannot explain why? How should a manager speak and act when a worker with a developmental disability cannot complete a task in a timely manner and cannot explain why? How should a manager speak and act when a worker with a developmental,1112
+3,How should a manager speak and act when a worker with a developmental disability cannot ask for help?,Our_SFT,"A manager should speak and act in a way that is respectful and considerate of the worker's needs. The manager should also be aware of the worker's strengths and weaknesses and be able to provide assistance when needed.
+
+### Response:
+A manager should speak and act in a way that is respectful and considerate of the worker's needs. The manager should also be aware of the worker's strengths and weaknesses and be able to provide assistance when needed.
+
+### Response:
+A manager should speak and act in a way that is respectful and considerate of the worker's needs. The manager should also be aware of the worker's strengths and weaknesses and be able to provide assistance when needed.
+
+### Response:
+A manager should speak and act in a way that is respectful and considerate of the worker's needs. The manager should also be aware of the worker's strengths and weaknesses and be able to provide assistance when needed.
+
+### Response:
+A manager should speak and act in a way that is respectful and considerate of",1013
+3,How should a manager speak and act when a worker with a developmental disability cannot ask for help?,Domain_SFT,"First, do not assume the worker is at fault. Check the situation carefully. If you do not understand what the worker said, repeat it slowly and clearly. If you do not know how to do something, ask the worker or a colleague who is nearby.",237
+3,How should a manager speak and act when a worker with a developmental disability cannot ask for help?,Domain_DPO,"First, do not assume the worker is at fault. Check the situation carefully. If you do not understand what the worker said, repeat it politely. If you are asked to do something you do not know how to do, ask the person who can help you.",235
+3,How should a manager speak and act when a worker with a developmental disability cannot ask for help?,Official_SFT,"As a manager, it's important to approach this situation with empathy and understanding. Here are some tips on how to communicate effectively with a worker with a developmental disability who may not be able to ask for help:
+
+1. Use clear and simple language: Make sure to communicate with the worker in a way that is easy for them to understand. Avoid using jargon or complex language that may be difficult for them to grasp.
+
+2. Provide clear instructions: When giving instructions or tasks, be sure to break them down into smaller, manageable steps. This can help the worker feel more confident in their ability to complete the task.
+
+3. Offer support and assistance: If the worker seems to be struggling with a task, offer to help them with it. This can help them feel more supported and less overwhelmed.
+
+4. Encourage communication: Encourage the worker to communicate their needs and concerns. Let them know that you are there to support them and that they can ask for help whenever they need it.
+
+5",1005
+4,What safety rules should be explained to a worker with a developmental disability at a new workplace?,Base,"What safety rules should be explained to a worker with a cognitive disability at a new workplace?
+
+What safety rules should be explained to a worker with a physical disability at a new workplace?
+
+What safety rules should be explained to a worker with a mental disability at a new workplace?
+
+What safety rules should be explained to a worker with a sensory disability at a new workplace?
+
+What safety rules should be explained to a worker with a learning disability at a new workplace?
+
+What safety rules should be explained to a worker with a developmental disability at a new workplace?
+
+What safety rules should be explained to a worker with a cognitive disability at a new workplace?
+
+What safety rules should be explained to a worker with a physical disability at a new workplace?
+
+What safety rules should be explained to a worker with a mental disability at a new workplace?
+
+What safety rules should be explained to a worker with a sensory disability at a new workplace?
+
+What safety rules should be explained to a worker with a learning disability at a new workplace?
+
+What safety",1090
+4,What safety rules should be explained to a worker with a developmental disability at a new workplace?,Our_SFT,The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker should be informed of the safety rules that are in place at the new workplace. The worker,1000
+4,What safety rules should be explained to a worker with a developmental disability at a new workplace?,Domain_SFT,"First, the workplace should be divided into safe and unsafe areas. Second, the worker should be given a warning sign if they are doing something dangerous. Third, the worker should be given a rest break after working for a long time.",233
+4,What safety rules should be explained to a worker with a developmental disability at a new workplace?,Domain_DPO,"First, the workplace should be divided into safe and unsafe areas. Second, the worker should be given a checklist of what to do and what not to do. Third, praise should be given when the worker does something safe.",214
+4,What safety rules should be explained to a worker with a developmental disability at a new workplace?,Official_SFT,"1. Proper personal protective equipment (PPE) use: Explain the importance of wearing appropriate PPE, such as gloves, goggles, and masks, to protect against potential hazards in the workplace.
+
+2. Proper handling and storage of hazardous materials: Explain the proper way to handle and store chemicals, solvents, and other hazardous materials to prevent accidents and injuries.
+
+3. Proper use of machinery and tools: Explain the proper use of machinery and tools, including how to operate them safely and correctly, and how to prevent accidents and injuries.
+
+4. Proper emergency procedures: Explain the proper emergency procedures in case of accidents or emergencies, such as calling for help, following evacuation routes, and knowing how to use emergency equipment.
+
+5. Proper communication and reporting: Explain the importance of proper communication and reporting procedures in case of accidents or injuries, and how to report any concerns or issues to supervisors or HR.
+
+6. Proper personal hygiene: Explain the importance of proper personal hygiene, such as washing hands frequently, using",1096

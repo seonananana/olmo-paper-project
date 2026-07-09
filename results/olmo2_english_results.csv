@@ -1,0 +1,83 @@
+﻿stage,task,idx,prompt,response,resp_len
+Base,Knowledge_QA,1,What is the capital of France?,,0
+Base,Knowledge_QA,2,What is the chemical formula of water?,What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of water? What is the chemical formula of,733
+Base,Knowledge_QA,3,What is the longest river in the world?,"The Nile is the longest river in the world. It is 6,650 miles long. It is in Africa. The Nile River has been important for the people who live around it for thousands of years. The river and the land around it are part of a big area called Egypt. Egypt is in the Middle East, but it is not near the Middle East. It is near the African continent. The Nile has a very long source. The source is where the Nile gets its water from. The Nile gets most   of   its water from central Africa. The Nile then flows into Tanzania. After that, it flows into Kenya. After that, it flows into Uganda. After that, it flows into Rwanda, Burundi, and Congo.",641
+Base,Commonsense,1,Why should you not use elevators during a fire?,Elevators are not designed to withstand a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in a fire. They are not designed to be used in,611
+Base,Commonsense,2,Why do people wear thick clothes in winter?,Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes in winter? Why do people wear thick clothes,736
+Base,Commonsense,3,Why do plants need sunlight?,"The sun is the source of energy for all life on earth. Plants use the sun’s energy to make their own food. This process is called photosynthesis. The sun’s energy is also used to make food for animals and people.
+
+How does the sun help plants grow? 
+
+Plants need sunlight to make food. The sun’s energy is used to make food for plants. The sun’s energy is also used to make food for animals and people.
+
+How does the sun help plants grow? 
+
+Plants need sunlight to make food. The sun’s energy is used to make food for plants. The sun’s energy is also used to make food for animals and people.
+
+How does the sun help plants grow? 
+
+Pl",633
+Base,Summarization,1,"Summarize in one sentence: Artificial intelligence is a computer system that mimics human intelligence to perform learning, reasoning, and problem solving. It learns patterns from data through machine learning and deep learning, and is applied in medicine, education, and finance.",,0
+Base,Summarization,2,"Summarize in one sentence: Climate change is a global phenomenon caused by global warming, causing sea level rise, increased extreme weather events, and ecosystem destruction. Reducing carbon emissions and transitioning to renewable energy is urgent.",,0
+Base,Emotion,1,I got 100 on my exam today! I am so happy and proud. What emotion is expressed?,"(A) Joy (B) Happiness (C) Disgust (D) Sadness (E) Anger
+Output: B",65
+Base,Emotion,2,My friend suddenly stopped contacting me. I feel so sad and lonely. What emotion is expressed?,"A) Sadness. B) Loneliness. C) Anger. D) Happiness.
+A: B
+
+
+Q: The first day of school we were interested to know about the new term. The teacher said: "" school is like a barrel with holes at the sides. Air can go in at the side -- so can school. We have hours and hours of fun."" The children were pleased but something was wrong. They did not fail to notice that his words meant that the school was in trouble. The teacher went on to say that at at the end of each term we would do a performance to open the term. The term happened to be bad because of students' study cards. It was necessary to pass out study cards only two days",629
+Base,Emotion,3,I missed the bus and was late for an important appointment. I am so frustrated. What emotion is expressed?,"A. anger B. sadness C. happiness D. fear
+A: A
+
+
+Q: Read the article and select the best answer. Article: The first day of school, our professor introduced an old lady Rose to us. ""Why are you in college at such an age?"" I asked her. She replied, ""I always dreamed of having a college education and now I'm getting one!"" We became friends quickly. At the end of the term I invited Rose to make a speech to our football team. I'll never forget what she taught us. She said, ""There are some secrets of staying young and being happy. You have to laugh and find humor every day. You must have a dream. When you lose your dreams, you",627
+SFT,Knowledge_QA,1,What is the capital of France?,The capital of France is Paris.,31
+SFT,Knowledge_QA,2,What is the chemical formula of water?,The chemical formula for water is H2O.,38
+SFT,Knowledge_QA,3,What is the longest river in the world?,"The longest river in the world is the Nile River. It is located in northeastern Africa, draining into the Mediterranean Sea. The Nile River is approximately 6,650 miles long. It is the longest river in Africa and the longest river in the world. The Nile River is also the longest river in the world that flows entirely through one country.",339
+SFT,Commonsense,1,Why should you not use elevators during a fire?,"Using elevators during a fire can be dangerous and is not recommended. Here are some reasons why:
+
+1. Smoke and toxic gases: Elevators are often located on the same floor as the fire, and smoke and toxic gases can be released into the elevator shaft. This can cause the elevator to become engulfed in smoke and become inaccessible.
+
+2. Fire suppression systems: Elevators are equipped with fire suppression systems, such as sprinklers and smoke detectors, which can be damaged or inoperable during a fire. This can prevent the elevator from being able to safely transport people to safety.
+
+3. Structural damage: Elevators are made of steel and other materials that can be damaged or destroyed during a fire. This can make the elevator unsafe to use",749
+SFT,Commonsense,2,Why do people wear thick clothes in winter?,"People wear thick clothes in winter for several reasons. Firstly, to keep warm in cold temperatures. Secondly, to protect against the cold and wind. Thirdly, to provide insulation against the cold and to prevent moisture from the body from reaching the skin. Lastly, to provide a barrier against the cold and dampness that can be present in the air.",349
+SFT,Commonsense,3,Why do plants need sunlight?,"Plants need sunlight to perform photosynthesis, a process that converts light energy into chemical energy. This energy is stored in the plant's glucose, which is then used for growth and development. Without sunlight, plants would not be able to produce the energy they need to survive and grow.",295
+SFT,Summarization,1,"Summarize in one sentence: Artificial intelligence is a computer system that mimics human intelligence to perform learning, reasoning, and problem solving. It learns patterns from data through machine learning and deep learning, and is applied in medicine, education, and finance.","Artificial intelligence is a computer system that mimics human intelligence to learn, reason, and solve problems.",113
+SFT,Summarization,2,"Summarize in one sentence: Climate change is a global phenomenon caused by global warming, causing sea level rise, increased extreme weather events, and ecosystem destruction. Reducing carbon emissions and transitioning to renewable energy is urgent.","Climate change is a global phenomenon caused by global warming, causing sea level rise, increased extreme weather events, and ecosystem destruction. Reducing carbon emissions and transitioning to renewable energy is urgent.",223
+SFT,Emotion,1,I got 100 on my exam today! I am so happy and proud. What emotion is expressed?,The emotion expressed in your statement is pride. You are happy and proud of your performance on the exam.,106
+SFT,Emotion,2,My friend suddenly stopped contacting me. I feel so sad and lonely. What emotion is expressed?,The emotion expressed in your friend's sudden stop in contacting you is sadness.,80
+SFT,Emotion,3,I missed the bus and was late for an important appointment. I am so frustrated. What emotion is expressed?,The emotion expressed in this situation is frustration.,55
+Instruct,Knowledge_QA,1,What is the capital of France?,The capital of France is Paris.,31
+Instruct,Knowledge_QA,2,What is the chemical formula of water?,The chemical formula for water is H2O.,38
+Instruct,Knowledge_QA,3,What is the longest river in the world?,"The longest river in the world is the Nile River. It flows through northeastern Africa, draining into the Mediterranean Sea. The Nile River is approximately 6,650 miles (10,695 kilometers) long. It is important for agriculture in Egypt and Sudan and has a significant impact on the region's history and culture.",311
+Instruct,Commonsense,1,Why should you not use elevators during a fire?,"Using elevators during a fire can be dangerous for several reasons:
+
+1. **Fire Suppression Systems:** Elevators are often equipped with fire suppression systems that can release fire extinguishing agents or evacuate the building safely. If an elevator is in use, these systems may not be able to operate effectively, potentially exacerbating the fire situation.
+
+2. **Fire Spread:** Elevators can become hotspots due to the confined space and the heat generated by the fire. People inside an elevator could be at risk of inhaling smoke, toxic gases, and potentially even flames if the fire spreads upwards.
+
+3. **Safety Hazards:** The use of elevators during a fire can create safety hazards. People inside elevators may not be able to hear alarms or",750
+Instruct,Commonsense,2,Why do people wear thick clothes in winter?,"People wear thick clothes in winter for several reasons:
+
+1. **Insulation**: Thick clothing helps to trap warm air between the body and the outer layer, preventing heat from escaping into the cold air. Wool, down, and synthetic insulating materials are commonly used for this purpose.
+
+2. **Protection from the elements**: Thick clothing can provide protection from the wind, rain, snow, and cold temperatures. It can help to shield the body from the harsh elements that can cause discomfort or even harm.
+
+3. **Comfort**: In cold weather, wearing layers allows individuals to adjust their clothing based on their comfort level. For example, they can remove a layer if they feel too warm, while still having a base layer that keeps them warm.
+
+4.",746
+Instruct,Commonsense,3,Why do plants need sunlight?,"Plants need sunlight for photosynthesis, a process that converts light energy into chemical energy. Here are the key reasons why plants require sunlight:
+
+1. **Energy Transformation**: Sunlight is the primary source of energy for photosynthesis. Plants use sunlight to convert carbon dioxide (CO2) and water (H2O) into glucose (a sugar) and oxygen (O2). This process releases energy in the form of ATP (adenosine triphosphate) and NADPH (nicotinamide adenine dinucleotide phosphate), which are used to fuel the plant's growth and metabolism.
+
+2. **Photosynthesis Mechanism**: The photosynthesis reaction involves two main parts: the light-dependent reactions and the light-independent reactions (also known",706
+Instruct,Summarization,1,"Summarize in one sentence: Artificial intelligence is a computer system that mimics human intelligence to perform learning, reasoning, and problem solving. It learns patterns from data through machine learning and deep learning, and is applied in medicine, education, and finance.","Artificial intelligence is a computer system that mimics human intelligence to learn, reason, and solve problems.",113
+Instruct,Summarization,2,"Summarize in one sentence: Climate change is a global phenomenon caused by global warming, causing sea level rise, increased extreme weather events, and ecosystem destruction. Reducing carbon emissions and transitioning to renewable energy is urgent.","Climate change is a global phenomenon caused by global warming, leading to sea level rise, extreme weather events, and ecosystem destruction. Reducing carbon emissions and transitioning to renewable energy is urgent.",216
+Instruct,Emotion,1,I got 100 on my exam today! I am so happy and proud. What emotion is expressed?,The emotion expressed in your statement is happiness and pride. You are proud of your achievement and happy about the result.,125
+Instruct,Emotion,2,My friend suddenly stopped contacting me. I feel so sad and lonely. What emotion is expressed?,"The emotion expressed in your friend's sudden stop in contacting you is sadness. This is a common response to the feeling of loneliness and the absence of communication. It's important to remember that while it's natural to feel sad and lonely when someone stops reaching out, it's also crucial to take care of your mental health. Here are a few steps you might consider:
+
+1. **Reach Out**: Try to reach out to your friend to see if there's an explanation for their sudden stop. Sometimes people have busy schedules or life changes that affect their ability to stay in touch.
+
+2. **Communicate**: If you haven't heard from them in a while and there's no apparent reason for their absence, consider reaching out with a gentle reminder about our",743
+Instruct,Emotion,3,I missed the bus and was late for an important appointment. I am so frustrated. What emotion is expressed?,The emotion expressed is frustration.,37
