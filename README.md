@@ -20,7 +20,7 @@
 - **Instruct**: allenai/OLMo-2-0425-1B-Instruct
 
 ## 폴더 구조
-***
+**
 olmo-transparency-experiment/
 ├── README.md
 ├── notebooks/
@@ -38,7 +38,7 @@ olmo-transparency-experiment/
 └── docs/
 ├── paper_card.md
 └── project_canvas.md
-***
+**
 ## 실행 환경
 - Python 3.11
 - PyTorch 2.6+
