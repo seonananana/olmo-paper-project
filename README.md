@@ -19,7 +19,7 @@
 - **SFT**: allenai/OLMo-2-0425-1B-SFT
 - **Instruct**: allenai/OLMo-2-0425-1B-Instruct
 
-## 📁 폴더 구조
+## 폴더 구조
 
 ```text
 olmo-transparency-experiment/
