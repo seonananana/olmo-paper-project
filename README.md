@@ -53,7 +53,7 @@ jupyter notebook notebooks/demo.ipynb
 ```
 
 ## 핵심 결론
-> OLMo가 가중치·데이터·코드를 전부 공개했기 때문에  
+> OLMo가 가중치, 데이터, 코드를 전부 공개했기 때문에  
 > Base→SFT→Instruct 인과 추적, LoRA 재현, 도메인 확장이 모두 가능했다.  
 > 닫힌 모델에서는 이 실험 전체가 불가능하다.
 
