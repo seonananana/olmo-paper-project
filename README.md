@@ -19,8 +19,9 @@
 - **SFT**: allenai/OLMo-2-0425-1B-SFT
 - **Instruct**: allenai/OLMo-2-0425-1B-Instruct
 
-## 폴더 구조
-**
+## 📁 폴더 구조
+
+```text
 olmo-transparency-experiment/
 ├── README.md
 ├── notebooks/
@@ -36,9 +37,9 @@ olmo-transparency-experiment/
 │   ├── olmo2_sft_comparison.csv
 │   └── olmo2_domain_comparison.csv
 └── docs/
-├── paper_card.md
-└── project_canvas.md
-**
+    ├── paper_card.md
+    └── project_canvas.md
+```
 ## 실행 환경
 - Python 3.11
 - PyTorch 2.6+
